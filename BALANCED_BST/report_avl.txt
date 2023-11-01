@@ -1,0 +1,6 @@
+Operation time(ms)
+Insert 0
+Delete 0
+Search 0
+Trav 0
+Total 0

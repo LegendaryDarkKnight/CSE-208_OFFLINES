@@ -1,0 +1,6 @@
+Maximum product
+Total Weights = 16380
+2 4
+0 2
+2 3
+1 2
